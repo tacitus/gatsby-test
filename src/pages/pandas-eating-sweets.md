@@ -1,8 +1,7 @@
 ---
-title: "Sweet Pandas Eating Sweets"
-date: "2017-08-10"
+title: Sweet Pandas Eating Sweets
+date: '2017-08-10'
 ---
-
 Pandas are really sweet.
 
 Here's a video of a panda eating sweets.
@@ -12,3 +11,11 @@ Here's a video of a panda eating sweets.
 ### This is some more standard content
 
 This is specifically excluded from the excerpt and so is this. There seems to be a character limit to the number of letters in the excerpt.
+
+
+
+How do you make sure this works?
+
+
+
+# **_Not sure about this_**
