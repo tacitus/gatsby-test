@@ -15,4 +15,8 @@ This is specifically excluded from the excerpt and so is this. There seems to be
 
 How do you make sure this works?
 
-# _**This is a new page!**_
+
+
+![foooo](/images/uploads/observatory.png)
+
+# **_This is a new page!_**
