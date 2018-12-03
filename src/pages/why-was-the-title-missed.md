@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Pandas eat Sweets
+title: Pandas eat Sweets - v2
 date: 2018-12-03T18:05:28.150Z
 ---
 Pandas are really sweet .
