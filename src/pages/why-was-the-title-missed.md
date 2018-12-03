@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: WHy was the title missed?
+title: Pandas eat Sweets
 date: 2018-12-03T18:05:28.150Z
 ---
 Pandas are really sweet .
