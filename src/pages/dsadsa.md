@@ -7,6 +7,4 @@ What are the pitfalls of this system?
 
 Where does it break down and how are schema changes dealt with?
 
-
-
 ![all first step](/images/uploads/pf-lighthouse.jpg)
