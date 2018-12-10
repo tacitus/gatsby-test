@@ -7,6 +7,6 @@ What are the pitfalls of this system?
 
 Where does it break down and how are schema changes dealt with?
 
-I am a MD editor Yaaaay  
 
-Foooo
+
+![all first step](/images/uploads/pf-lighthouse.jpg)
